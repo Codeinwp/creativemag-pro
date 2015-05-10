@@ -1,5 +1,13 @@
 
 
+### 1.3.3 - 10/05/2015
+
+ Changes: 
+
+
+ * Fixed contact form !
+
+
 ### 1.3.1 - 20/04/2015
 
  Changes: 
